@@ -1,5 +1,6 @@
 # computer-architecture  
-This repository includes all the course works submitted **as a team** in **Computer Architecture Sessional (CSE306)** course.  
+This repository includes all the course works submitted **as a team**  
+in **Computer Architecture Sessional (CSE306)** course.  
 ## navigation  
 - **(offline-1):** `./4bit-alu-design` is 4bit Arithmetic Logic Unit (ALU) design  
 - **(offline-2):** `./floating-point-adder-design` is floating point adder design  
